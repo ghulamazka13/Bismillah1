@@ -5,4 +5,5 @@ Percobaan github
 - pull
 - semangat
 - bisa keluar dengan memuaskan di KGIC
-- kolaborasi dengan banyak expert
+
+- kolaborasi
