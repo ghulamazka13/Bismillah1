@@ -1,0 +1,4 @@
+rencana percobaan 2
+- bikin push
+- bikin pull
+- vlogs
